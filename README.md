@@ -34,7 +34,7 @@ I'm a cybersecurity student/practitioner focused on offensive security and netwo
 
 | Project | Description | File |
 |---|---|---|
-| Metasploit Framework & Android Fundamentals | Using Metasploit to identify and exploit vulnerabilities, with an introduction to Android security fundamentals. *(Add: exploit/module used, target, outcome.)* | [View write-up](<Metasploit%20Framework%20and%20Android%20Fundamentals.pdf>) |
+| Metasploit Framework & Android Fundamentals | Using Metasploit to identify and exploit vulnerabilities, with an introduction to Android security fundamentals.  | [View write-up](<Metasploit%20Framework%20and%20Android%20Fundamentals.pdf>) |
 
 ### Network & Systems Analysis
 
