@@ -14,7 +14,6 @@ I'm a cybersecurity student/practitioner focused on offensive security and netwo
 
 ## Project Index
 
-> Note: entries currently link to PDF/DOCX write-ups. See [Planned Improvements](#planned-improvements) for the move to in-repo Markdown write-ups.
 
 ### Web Application Security
 
