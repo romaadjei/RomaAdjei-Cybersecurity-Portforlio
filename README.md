@@ -55,6 +55,6 @@ I'm a cybersecurity student/practitioner focused on offensive security and netwo
 
 ## Tools & Technologies
 
-`Metasploit` `SQLMap` `ffuf` `Wireshark` `Burp Suite` `Hydra` *(confirm/adjust)* `Kali Linux` `VirtualBox / VMware` `NMAP` `Volatility`
+`Metasploit` `SQLMap` `ffuf` `Wireshark` `Burp Suite` `Hydra` `Kali Linux` `VirtualBox / VMware` `NMAP` `Volatility`
 
 ---
