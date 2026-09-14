@@ -28,6 +28,7 @@ I'm a cybersecurity student/practitioner focused on offensive security and netwo
 | Login Brute Forcing | Automated brute-force attacks against login forms. | [View write-up](<Login%20Brute%20Forcing.pdf>) |
 | Password Attacks (Week 6 Challenge) | Individual challenge on password attack techniques.  | [View write-up](<Week%206%20-%20Individual%20Challenge%20-%20Password%20Attacks.pdf>) |
 | Attacking Common Applications | Broader assessment of common application vulnerabilities.  | [View write-up](<Bonus%20Assignment%202%20-%20Attacking%20Common%20Applications2.pdf>) |
+| Attacks Using Insecure CAPTCHA | Exploiting insecure CAPTCHA implementations (e.g., client-side validation, reusable tokens, missing rate limiting) to bypass anti-automation controls.| [View write-up](<Attacks%20using%20insecure%20captcha.pdf>)
 
 
 ### Exploitation & Mobile Security
