@@ -7,6 +7,7 @@ I'm a cybersecurity student/practitioner focused on offensive security and netwo
 |---|---|
 | **Web Application Security** | SQL Injection, SQLMap, Cross-Site Scripting (XSS), Command Injection, Broken Authentication, File Inclusion (LFI/RFI), File Upload Attacks, ffuf, Burp Suite / web proxies |
 | **Exploitation** | Metasploit Framework, Android exploitation fundamentals |
+| **Cryptography** | *(symmetric/asymmetric encryption, hashing)* |
 | **Password & Access Attacks** | Login brute forcing, credential attacks, password cracking |
 | **Network Analysis** | Wireshark packet inspection, virtualization/lab environments |
 | **Capture The Flag (CTF)** | Individual and team CTF challenges, walkthrough documentation |
@@ -29,6 +30,12 @@ I'm a cybersecurity student/practitioner focused on offensive security and netwo
 | Password Attacks (Week 6 Challenge) | Individual challenge on password attack techniques.  | [View write-up](<Week%206%20-%20Individual%20Challenge%20-%20Password%20Attacks.pdf>) |
 | Attacking Common Applications | Broader assessment of common application vulnerabilities.  | [View write-up](<Bonus%20Assignment%202%20-%20Attacking%20Common%20Applications2.pdf>) |
 | Attacks Using Insecure CAPTCHA | Exploiting insecure CAPTCHA implementations (e.g., client-side validation, reusable tokens, missing rate limiting) to bypass anti-automation controls.| [View write-up](<Attacks%20using%20insecure%20captcha.pdf>)
+
+### Cryptography
+
+| Project | Description | File |
+|---|---|---|
+| Cryptography | *( encryption/decryption exercises, hashing, cipher cracking, tools used such as OpenSSL/CyberChef/Hashcat, and key takeaway.)* | [View write-up](<Cryptography.pdf>) |
 
 
 ### Exploitation & Mobile Security
